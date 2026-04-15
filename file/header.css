@@ -1,0 +1,9 @@
+#me {font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    color: black;
+}
+#hk {border-style: groove;
+    border-width: 5px;
+    border-color: #000000;}
